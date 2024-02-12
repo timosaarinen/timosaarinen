@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @timosaarinen
-- 👀 I’m interested in ... gamedev, 3D, VR, space exploration, tech in general
-- 🌱 I’m currently learning ... to use GitHub for more than cloning and browsing
-- 💞️ I’m looking to collaborate on ... state-of-the-art 3D/VR games and engine tech
-- 📫 How to reach me ... look me up Linkedin
+Hi, I’m Timo Saarinen, @timosaarinen, the founder/CTO of the next-level social media platform Naama. 👋
+
+I'm interested in all kinds of tech and have a long history with game development (industry since '95), specially in 3D game engine development. Willing to talk about.. well, any cool thing ;)
+
+You can reach me in Linkedin, @tsaari42
 
 <!---
 timosaarinen/timosaarinen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
