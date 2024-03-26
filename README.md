@@ -1,4 +1,4 @@
-Hi, I’m Timo Saarinen, @timosaarinen, the founder/CTO of the next-level social media platform Naama. 👋
+Hi, I’m Timo Saarinen, @timosaarinen, the founder/CTO of Islefire Ltd and the next-level social media platform Naama.Online. 👋
 
 I'm interested in all kinds of tech and have a long history with game development (industry since '95), specially in 3D game engine development. Willing to talk about.. well, any cool thing ;)
 
