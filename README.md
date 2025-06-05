@@ -1,9 +1,14 @@
-Hi, I’m Timo Saarinen, @timosaarinen, the founder/CTO of Islefire Ltd and the next-level social media platform Naama.Online. 👋
+Founder/CTO of Islefire Ltd. I’ve also recently worked on Naama.Online, a social platform project close to my heart — though now slightly paused after the loss of my co-founder.
 
-I'm interested in all kinds of tech and have a long history with game development (industry since '95), specially in 3D game engine development. Willing to talk about.. well, any cool thing ;)
+🎮 I've been building things since the ’90s — from early 3D game engines to modern AI-assisted dev tools. With roots in the game industry since 1995, I still get excited about clever code, creative tools, and challenging systems.
 
-You can reach me in Linkedin, @tsaari42
+🛠️ These days I’m hacking on Promptly, a local-first AI dev companion — and (more than) a few game experiments.
 
+💬 Always up to talk tech, tools, engines, weird UIs, or how to bend reality with pixels.
+
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/tsaari42/)
+ or ping me here.
+ 
 <!---
 timosaarinen/timosaarinen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
